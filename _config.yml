@@ -12,11 +12,11 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://dubeypoornima.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
+baseurl: /
+title: Poornima Dubey
+author: poornima Dubey
 description: Personal blog and resume
-avatar: profile.png
+avatar: profile.jpg
 email: yourname@email.com
 github: github.com/dubeypoornima # username
 twitter: username
