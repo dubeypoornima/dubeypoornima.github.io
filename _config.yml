@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://dubeypoornima.github.io/
-baseurl: /
+url: http://dubeypoornima.github.io
+baseurl:
 title: Poornima Dubey
 author: poornima Dubey
 description: Personal blog and resume
